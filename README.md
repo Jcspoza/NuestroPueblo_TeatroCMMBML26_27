@@ -6,17 +6,15 @@ Web de creación teatral para el teatro de los Lunes en CMM BML -curso 2026 - 20
 
 ...
 
-
-
 ### Titulo (se busca)
 
 [Lista de títulos (word) ](./doc/Lista_titulos.docx)
 
+[Lista de títulos (para ver)](./doc/Lista_titulos.md)
+
 ### Sinopsis
 
 Esta propuesta de vodevil romántico, titulado provisionalmente "Chismes de Pueblo", se centra en la transformación de la comunidad apática de VILLAOLVIDO, un pueblo adormecido donde el tren ya no para y la primavera ha llegado sin hojas en su olmo centenario. La llegada en el tren expreso de una mujer que lleva una maleta con las siglas B.E. grabadas, da lugar a que las vecinas chismosas saquen una conclusión disparatada: "Esa mujer es la heredera  multimillonaria del antiguo balneario y viene para abrirlo" . El bulo corre como la pólvora . Los vecinos recuperan la alegría y el optimismo, todo el pueblo se moviliza agasajando a la mujer de la maleta con la intención de que vuelva a abrir el balneario. Por otra parte, el alcalde se dispone a seducir a la mujer de la maleta para que firme un contrato cediéndole el balneario,  porque pretende abrir un camping de lujo. El desenlace revela que la supuesta heredera multimillonaria es una vagabunda nostálgica que está buscando su primer amor de verano, pero el pueblo, ya revitalizado, decide tomar las riendas de su propio destino, truncando los intereses del alcalde para apropiarse del balneario en beneficio propio.
-
-
 
 ## Personajes
 
@@ -39,8 +37,6 @@ Todos o casi todos los personajes deberían poder interpretarse por actores homb
 | Roker (hermano del alcalde) : **Miki**           |                                                       |                                                                                                                                                                                                                                                    | H     |
 
 ## 
-
-
 
 ## Espacios escénicos
 
@@ -66,13 +62,9 @@ Villaolvido se tiñe de gris. En esta parte se presenta a los personajes.
 
 #### Escritos adscritos a Acto1
 
-
-
 ### Acto 2- 40 minutos
 
 El nudo, el detonante
-
-
 
 #### Escritos adscritos a Acto2
 
@@ -80,11 +72,7 @@ El nudo, el detonante
 
 ### Acto 3 - 20 minutos
 
-
-
 #### Escritos adscritos a Acto3
-
-
 
 -----
 
