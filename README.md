@@ -1,4 +1,4 @@
-# Nuestro Pueblo Teatro en CMMBML26_27
+# 'Pueblo' Teatro en CMMBML26_27
 
 Web de creación teatral para el teatro de los Lunes en CMM BML -curso 2026 - 2027
 
@@ -6,7 +6,7 @@ Web de creación teatral para el teatro de los Lunes en CMM BML -curso 2026 - 20
 
 ...
 
-### Titulo (se busca)
+### Titulo (se busca): 'Pueblo'
 
 [Lista de títulos (word) ](./doc/Lista_titulos.docx)
 
@@ -60,17 +60,45 @@ La **narración transcurre linealmente** (sin flash back ni flash forward), en e
 
 Villaolvido se tiñe de gris. En esta parte se presenta a los personajes.
 
+#### Escaleta
+
+....
+
 #### Escritos adscritos a Acto1
+
+CRUCIGRAMAS- ACTO 1 - Carlos M.
+
+SOMBRA ARBOL- ACTO 1 - Raúl y Carlos M
+
+PERIÓDICOS VIEJOS ACTO 1 - Rigoberto 
+
+    Los nombres de Aurelio y Basilio los cambiaremos por nuestros personajes habituales
+
+PACO CHEZ Y LA BONI - ACTO 1 -Raúl
+
+CHISMOSAS PRETENDIENTES LA BONI- ACTO 1 - Ana y Carlos M
+
+CHISMOSAS- HOMBRE DORMIDO- ACTO 1 - José Carlos 
 
 ### Acto 2- 40 minutos
 
 El nudo, el detonante
+
+#### Escaleta
+
+....
 
 #### Escritos adscritos a Acto2
 
 ..
 
 ### Acto 3 - 20 minutos
+
+..
+
+#### Escaleta
+
+....
 
 #### Escritos adscritos a Acto3
 
