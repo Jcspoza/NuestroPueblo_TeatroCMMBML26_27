@@ -78,7 +78,7 @@ PACO CHEZ Y LA BONI - ACTO 1 -Raúl
 
 CHISMOSAS PRETENDIENTES LA BONI- ACTO 1 - Ana y Carlos M
 
-CHISMOSAS- HOMBRE DORMIDO- ACTO 1 - José Carlos 
+[CHISMOSAS- HOMBRE DORMIDO- ACTO 1 - José Carlos ](./doc/Pueblo-Acto1_chismosasHdormido.md)  y [archivo word](./doc/Pueblo-Acto1_chismosasHdormido.docx) 
 
 ### Acto 2- 40 minutos
 
